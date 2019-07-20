@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="3.2dev-20190717"
+config/name="3.2dev-20190717-PEAC"
 config/icon="res://icon.png"
 
 [debug]
